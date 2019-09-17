@@ -1,0 +1,5 @@
+name: 'Codecov action'
+author: 'vigenere92'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
